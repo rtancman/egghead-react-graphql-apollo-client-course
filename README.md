@@ -40,6 +40,13 @@ make run.server run.lesson4
 
 ```
 
+5. Manage Local State using Apollo by extending the GraphQL Schema on the Client
+```
+
+make run.server run.lesson5
+
+```
+
 You can find the server located here: https://github.com/nikgraf/graphql-apollo-client-course/tree/master/server
 
 The db stores two JSON files stored in `/tmp/recipes.json` and `/tmp/ingedients.json`.
