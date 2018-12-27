@@ -3,6 +3,7 @@ setup:
 	cd lesson-1 && yarn install
 	cd lesson-2 && yarn install
 	cd lesson-3 && yarn install
+	cd lesson-4 && yarn install
 
 run.server:
 	cd server && yarn seed && yarn start:slow
@@ -15,3 +16,6 @@ run.lesson2:
 
 run.lesson3: 
 	cd lesson-3 && yarn start
+
+run.lesson4: 
+	cd lesson-4 && yarn start

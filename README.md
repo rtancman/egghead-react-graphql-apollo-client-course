@@ -11,7 +11,7 @@ make setup run.server
 
 ```
 
-1. Course Introduction: GraphQL with React and Apollo Client
+1. Setup and Connect an Apollo Client to a React Application with Apollo Provider
 
 ```
 
@@ -19,17 +19,24 @@ make run.server run.lesson1
 
 ```
 
-2. Setup and Connect an Apollo Client to a React Application with Apollo Provider
+2. Fetch Data using the Apollo Query Component
 ```
 
 make run.server run.lesson2
 
 ```
 
-3. Fetch Data using the Apollo Query Component
+3. Provide Dynamic Arguments in a Apollo Query Component with GraphQL Variables
 ```
 
 make run.server run.lesson3
+
+```
+
+4. Update Data using the Apollo Mutation component
+```
+
+make run.server run.lesson4
 
 ```
 
